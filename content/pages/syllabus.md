@@ -44,18 +44,177 @@ This course will introduce students to key strategies that the cell uses to repa
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction & Overview | &nbsp; |
-| 2 | Alkylating agents: How chemical warfare became medicine | &nbsp; |
-| 3 | Direct Repair: Levels of O6\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics | &nbsp; |
-| 4 | Mismatch Repair: A guardian against replication errors | &nbsp; |
-| 5 | Mutations and Epigenetics: Multiple means by which inactivation of the mismatch repair pathway complicates the treatment of cancer | &nbsp; |
-| 6 | Base Excision Repair: Intermediate threat to genomic stability | &nbsp; |
-| 7 | Base Excision Repair: The GO system limits mutagenesis by oxidative damage | &nbsp; |
-| 8 | Field Trip to Blueprint Medicines | Field Trip to [Blueprint Medicines](http://www.blueprintmedicines.com/) |
-| 9 | 16,568 base pairs: Mitochondrial DNA repair mechanisms and the deadly consequences of failing to maintain the mitochondrial genome | Written assignment due |
-| 10 | Extreme sun-sensitivity: Nucleotide excision repair defects in xeroderma pigmentosum patients | &nbsp; |
-| 11 | Unwinding less: Depletion of Werner helicase activity as both a cause and a treatment of disease | &nbsp; |
-| 12 | Stem cells: DNA damage and differentiation, do they mix? | &nbsp; |
-| 13 | Students Oral Presentation Assignments | Oral Presentation assignments due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction & Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Alkylating agents: How chemical warfare became medicine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Direct Repair: Levels of O6\-methylguanine-DNA methyltransferase (MGMT) as a potential predictor of response to alkylation-based chemotherapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Mismatch Repair: A guardian against replication errors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mutations and Epigenetics: Multiple means by which inactivation of the mismatch repair pathway complicates the treatment of cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Base Excision Repair: Intermediate threat to genomic stability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Base Excision Repair: The GO system limits mutagenesis by oxidative damage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to Blueprint Medicines
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to [Blueprint Medicines](http://www.blueprintmedicines.com/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+16,568 base pairs: Mitochondrial DNA repair mechanisms and the deadly consequences of failing to maintain the mitochondrial genome
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Extreme sun-sensitivity: Nucleotide excision repair defects in xeroderma pigmentosum patients
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Unwinding less: Depletion of Werner helicase activity as both a cause and a treatment of disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stem cells: DNA damage and differentiation, do they mix?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Students Oral Presentation Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentation assignments due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
